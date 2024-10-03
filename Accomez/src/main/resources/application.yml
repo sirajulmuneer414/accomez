@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Accomez
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc.mysql://localhost:3306/accomez
+    username: root
+    password: Srjmgrz@786
+
